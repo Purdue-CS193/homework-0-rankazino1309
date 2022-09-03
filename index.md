@@ -12,6 +12,7 @@ Favourite things about CS193
 - Taught by current undergrads so the lectures are bound to be fun :)
 - Good jokes here and there
 - It pays attention to the basic skills a CS major needs and addresses them in a very neat way!
+- Added an extra line to see if it updates this time because it didn't the last time.
 
 
 ### Markdown

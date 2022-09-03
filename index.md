@@ -25,6 +25,13 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+# Rudraneel's First CS193 Homework
+
+Favourite things about CS193
+- It's a light class!
+- Taught by current undergrads so the lectures are bound to be fun :)
+- Good jokes here and there
+- It pays attention to the basic skills a CS major needs and addresses them in a very neat way!
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
